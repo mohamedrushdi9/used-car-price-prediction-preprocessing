@@ -62,3 +62,11 @@ Run the notebook step by step (notebooks/2025_Y2_S1_KU_11_pipeline.ipynb).
   5. Feature Selection
   6. Scale numerical features 
 
+## My Contribution
+
+- Contributed to Feature Engineering by creating derived features
+  from the original dataset.
+- Contributed to Feature Selection and Reduction using:
+  - Correlation Analysis
+  - Random Forest Feature Importance
+  - Recursive Feature Elimination (RFE)
